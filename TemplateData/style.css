@@ -2,8 +2,6 @@ html, body {
   width: 50%;
   height: 50%;
   margin: 0;
-  padding: 0;
-  overflow: hidden; /* prevents scrollbars when resizing */
 }
 body { padding: 0; margin: 0 }
 #unity-container { position: absolute }
